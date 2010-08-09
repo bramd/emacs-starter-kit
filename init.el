@@ -57,6 +57,7 @@
 (require 'starter-kit-lisp)
 (require 'starter-kit-perl)
 (require 'starter-kit-ruby)
+(require 'starter-kit-python)
 (require 'starter-kit-js)
 
 (regen-autoloads)

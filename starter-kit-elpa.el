@@ -8,6 +8,13 @@
                                    'ruby-mode
                                    'inf-ruby
                                    'css-mode
+                                   'haml-mode
+                                   'json
+                                   'clojure-mode
+                                   'clojure-test-mode
+                                   'swank-clojure
+                                   'slime
+                                   'slime-repl
                                    'yaml-mode
                                    'find-file-in-project
                                    'magit
